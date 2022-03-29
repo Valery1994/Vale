@@ -1,0 +1,2 @@
+# Vale
+Created with CodeSandbox
